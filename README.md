@@ -1,0 +1,2 @@
+# AndroidAndFlutterCommunication
+Android和flutter 几种通讯的实现以及页面的跳转
